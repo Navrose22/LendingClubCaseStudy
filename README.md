@@ -1,5 +1,6 @@
 # Lending Club 
->  To understand the driving factors (or driver variables) behind loan default, i.e. the variables which are strong indicators of default. To identify these risky loan applicants, then such loans can be reduced thereby cutting down the amount of credit loss of finance companies based on EDA concepts.
+>  Lending Club Case Study:
+> To understand the driving factors (or driver variables) behind loan default, i.e. the variables which are strong indicators of default. To identify these risky loan applicants, then such loans can be reduced thereby cutting down the amount of credit loss of finance companies based on EDA concepts.
 
 <!-- You can include any other section that is pertinent to your problem -->
 
